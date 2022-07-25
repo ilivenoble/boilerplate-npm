@@ -1,6 +1,6 @@
 {
-	"author": "Noble Enyinnaya",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Noble Enyinnaya",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
